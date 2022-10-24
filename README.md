@@ -1,14 +1,30 @@
 # :pushpin: Moregreen
 ![image](https://user-images.githubusercontent.com/49506753/195790974-486cd436-cf27-49ca-a159-d34d7591ece7.png)
 
->친환경 크라우드 펀딩 서비스 제작
+> 친환경 크라우드 펀딩 서비스 제작
 </br>
->http://52.78.137.86:8080/moregreen/
+
+#### 사이트 주소</br>
+> http://52.78.137.86:8080/moregreen/</br>
+#### 노션</br>
+> https://imminent-wishbone-9d3.notion.site/2-804cd51c5e8e473bbb53fdb5b1e6cb4f</br>
+#### Google Drive</br>
+> https://drive.google.com/drive/u/0/folders/1hc4mr0rn8SnJfvGdAmrUjubJ1m2yLtxo</br></br>
 
 ## 1. 제작 기간 & 참여 인원
 - 2022년 8월 31일 ~ 10월 11일 (약 6주)
-- 메가존 클라우드 주관 경기미래기술학교 파이널 프로젝트(5인)
-
+- 메가존 클라우드 주관 경기미래기술학교 파이널 프로젝트(5인)<br><br>
+**조장**<br>
+박다희(PM)
+<br><br>
+**펀딩 기능**<br>
+이수남(게시판 CRUD 처리, 펀딩 및 관리자 페이징/필터/검색 처리, 스케줄링 처리, 실시간 알림, 다음 주소 API, 카카오페이 API 연동, 클라우드 배포)<br>
+김수현(게시판 CRUD 처리, 펀딩 및 관리자 페이징/필터/검색 처리, 프런트 담당)
+<br><br>
+**회원 기능**<br>
+조경민(관리자 로그인, 관리자 회원조회 / 검색, 회원 로그인, 회원가입)<br>
+최정석(회원 아이디찾기, 비밀번호찾기(Email 임시비밀번호), 회원비밀번호 변경, 회원 탈퇴, 회원가입 약관) 
+<br><br>
 </br>
 
 ## 2. 사용 기술
