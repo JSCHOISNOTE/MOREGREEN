@@ -5,8 +5,7 @@
 </br>
 
 #### 사이트 주소</br>
-> http://52.78.137.86:8080/moregreen/</br>
-*퍼블릭 클라우드 기간 만료*</br>
+>*퍼블릭 클라우드 기간 만료*</br>
 #### 노션</br>
 > https://imminent-wishbone-9d3.notion.site/2-804cd51c5e8e473bbb53fdb5b1e6cb4f</br>
 #### Google Drive</br>
